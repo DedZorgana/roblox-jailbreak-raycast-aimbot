@@ -1,4 +1,4 @@
-```
+
 # Description:
 This script implements an aimbot for a Roblox game by hooking into the game's raycast system.
  It intercepts bullet and taser raycasts and redirects them to the nearest valid target (NPC or enemy player) within a 600-stud range.
