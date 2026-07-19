@@ -6,3 +6,5 @@ This script implements an aimbot for a Roblox game by hooking into the game's ra
  It activates while holding the X key and deactivates upon release, with automatic cleanup on character death or window focus loss.
  The system caches NPC data every 0.3 seconds for performance optimization and includes visibility checks to prevent shooting through walls.
 ```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DedZorgana/roblox-jailbreak-raycast-aimbot/refs/heads/main/roblox-jailbreak-raycast-aimbot.lua"))()
+```
