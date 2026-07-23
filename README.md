@@ -18,4 +18,4 @@ This script intercepts bullet and taser raycasts and redirects them to the neare
 - **Auto Cleanup**: Disables on character death or window focus loss
 - **Performance Optimized**: Caches NPC data every 0.3 seconds
 - **Wall Check**: Only targets visible enemies (no shooting through walls)
-**Note**: This is a Roblox exploit script. Use at your own risk.
+- **Note**: This is a Roblox exploit script. Use at your own risk.
