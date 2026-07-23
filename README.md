@@ -1,7 +1,8 @@
+# Roblox Aimbot
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DedZorgana/roblox-jailbreak-raycast-aimbot/refs/heads/main/roblox-jailbreak-raycast-aimbot.lua"))()
 ```
-# Roblox Aimbot
+
 A Roblox aimbot that hooks into the game's raycast system to provide silent aim assistance.
 
 
